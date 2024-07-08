@@ -1,4 +1,5 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://github.com/ShykatDev/ShykatDev/assets/97785935/6f6ef273-8be8-4a25-85f1-7d538cc8b46e)
+
 <h1 align="center">Hi 👋, I'm Shykat Raha</h1>
 <h3 align="center">A passionate software engineer focusing on FullStack development</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
