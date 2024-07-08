@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shykat Raha</h1>
 <h3 align="center">A passionate software engineer focusing on FullStack development</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shykatdev" alt="shykatdev" /></a> </p>
 
