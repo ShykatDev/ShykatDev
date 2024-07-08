@@ -1,4 +1,5 @@
-![MasterHead](https://github.com/ShykatDev/ShykatDev/assets/97785935/d4c664b5-c0cc-468b-b44c-d85e2050474a)
+![MasterHead](https://github.com/ShykatDev/ShykatDev/assets/97785935/6bd8ce48-e59f-4da5-9866-e0b89822a3ab)
+
 
 <h1 align="center">Hi 👋, I'm Shykat Raha</h1>
 <h3 align="center">A passionate software engineer focusing on FullStack development</h3>
