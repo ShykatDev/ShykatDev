@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Shykat Raha</h1>
 <h3 align="center">A passionate software engineer focusing on FullStack development</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **React, TailwindCSS, JavaScript**
 
